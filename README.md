@@ -1,8 +1,12 @@
-# vue-webpack-boilerplate
+# vue-webpack4-boilerplate
 
-> A full-featured Webpack 4 setup with hot-reload, lint-on-save, unit testing, css extraction, pug and fastify. **Ready for Heroku deploy**.
+> A full-featured Webpack 4 setup with hot-reload, lint-on-save, unit testing, css extraction & pug support.
 
 > This template is Vue 2.0 compatible.
+
+> Fastify server.
+
+> **Ready for Heroku**
 
 > Original branch: [noamkfir/webpack](https://github.com/noamkfir/webpack)
 
