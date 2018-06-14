@@ -1,3 +1,13 @@
+<template lang="pug">
+  #app
+    img(src="./assets/logo.png")
+    {{#router}}
+    <router-view/>
+    {{else}}
+    HelloWorld
+    {{/router}}
+</template>
+
 <template>
   <div id="app">
     <img src="./assets/logo.png">
